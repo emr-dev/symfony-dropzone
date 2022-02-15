@@ -1,10 +1,6 @@
 # Symfony DropzoneType
 
-**Still under development! Don't use!!!**
-
-**Still under development! Don't use!!!**
-
-**Still under development! Don't use!!!**
+Extends the SymfonyForm component. Adds the new form type DropzoneType
 
 ## Installing
 
